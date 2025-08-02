@@ -118,7 +118,7 @@
 	<repositories>
 	<repository>
 		<id>github</id>
-		<url>https://github.com/nhutphuongasasa/elastic-starter</url>
+		<url>https://maven.pkg.github.com/nhutphuongasasa/elastic-starter</url>
 	</repository>
 </repositories>
 
@@ -126,7 +126,7 @@
   <repository>
     <id>github</id>
     <name>GitHub Packages</name>
-    <url>https://github.com/nhutphuongasasa/elastic-starter</url>
+    <url>https://maven.pkg.github.com/nhutphuongasasa/elastic-starter</url>
   </repository>
 </distributionManagement>
 
